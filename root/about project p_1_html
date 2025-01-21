@@ -1,0 +1,34 @@
+<!-- about.html -->
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عن المشروع</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="First Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="home.html" data-target="home.html">الصفحة الرئيسية</a></li>
+                <li><a href="about.html" data-target="about.html">عن المشروع</a></li>
+                <li><a href="survey.html" data-target="survey.html">استبيان الوعي</a></li>
+                <li><a href="contact.html" data-target="contact.html">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>معلومات عن المشروع</h2>
+        <p>مشروعنا يهدف إلى تعزيز الوعي بالتاريخ البحري، التنوع البيولوجي، والشعب المرجانية من خلال منصة تفاعلية.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 THREEDOTS. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
